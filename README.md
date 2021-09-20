@@ -16,4 +16,6 @@ This folder contains the source code of our driver program. Below contains the s
 
 
 
-##
+## UML Class Diagram
+
+This folder contains a screen dump of our UML Class Diagram. It also contains the original file created using Visual Paradigm Software.
