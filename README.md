@@ -12,8 +12,7 @@ Zain Butt - 100751676<br>
 
 This folder contains the source code of our driver program. Below contains the screen dump of output generated when the program is executed.
 
-![image](https://user-images.githubusercontent.com/72389295/134097298-d37515e4-8daa-4225-af59-45b9c643b9b3.png)
-
+![image](https://user-images.githubusercontent.com/72389295/134098491-eb7dcb12-5fd8-4918-b6fe-97051e0e2425.png)
 
 ## UML **Class Diagram**
 
