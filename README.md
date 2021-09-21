@@ -17,3 +17,4 @@ This folder contains the source code of our driver program. Below contains the s
 ## UML **Class Diagram**
 
 This folder contains a screen dump of our UML Class Diagram. It also contains the original file created using Visual Paradigm Software.
+https://github.com/TirthPatel3/SOFE3650U-Gp_18-Assignment_1/tree/main/UML%20Class%20Diagram
